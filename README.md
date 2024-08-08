@@ -1,4 +1,4 @@
-# Deep-Dive-Into-Modern-Web-Development-Part-0
+# Sequential Diagrams
 
 This is the combined Repository for the Part-0 exercises of the course: Deep Dive Into Modern Web Development.
 I will create a different folder for each of the exercise that is performed and required in each part of the course.
